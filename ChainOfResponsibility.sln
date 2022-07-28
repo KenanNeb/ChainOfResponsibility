@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{50506909-C793-4EB1-9735-2F8BD4E62502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{26B59C44-2FBB-4C7D-BEE6-EB60BEA51001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50506909-C793-4EB1-9735-2F8BD4E62502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50506909-C793-4EB1-9735-2F8BD4E62502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50506909-C793-4EB1-9735-2F8BD4E62502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50506909-C793-4EB1-9735-2F8BD4E62502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B59C44-2FBB-4C7D-BEE6-EB60BEA51001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B59C44-2FBB-4C7D-BEE6-EB60BEA51001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B59C44-2FBB-4C7D-BEE6-EB60BEA51001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B59C44-2FBB-4C7D-BEE6-EB60BEA51001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC24F41-4468-4A78-A2A3-7E99014F98A3}
+	EndGlobalSection
+EndGlobal
